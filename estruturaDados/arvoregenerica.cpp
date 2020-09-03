@@ -1,14 +1,14 @@
 #include <stdlib.h>
 #include <stdio.h>
-#include <malloc/malloc.h>
+#include <malloc.h>
 
 struct arvoregenerica *crianodo(int ch);
 void insere_direita (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st);
-int conta_nodos(struct arvoregenerica *raiz);
 void remove (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st);
 void adicionasubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st);
 void removesubarvore (struct arvoregenerica *arvore, struct arvoregenerica *st);
 void mostra_arvore(struct arvoregenerica *raiz);
+int conta_nodos(struct arvoregenerica *raiz);
 void libera_arvore(struct arvoregenerica *raiz);
 
 struct arvoregenerica{
@@ -49,20 +49,6 @@ void insere_direita (struct nodo **lista, struct nodo **fim, struct arvoregeneri
 		*fim = aux;
 	} 
 }
-//Criar um método que conte os nodos de uma árvore genérica
-int conta_nodos(struct arvoregenerica *raiz){
-struct nodo *p;
-int c = 0;
-if (raiz==NULL) return c;
-c++;
-p=raiz->lista;
-while(p!=NULL){
-c = c + conta_nodos(p->filho);
-p=p->prox;
-}
-return c;
-printf("%d", c);
-}
 
 void remove (struct nodo **lista, struct nodo **fim, struct arvoregenerica *st)
 {
@@ -100,7 +86,19 @@ void mostra_arvore(struct arvoregenerica *raiz){
 		p=p->prox;
 	}
 }
-
+//Criar um método que conte os nodos de uma árvore genérica
+int conta_nodos(struct arvoregenerica *raiz){
+struct nodo *p;
+int c = 0;
+if (raiz==NULL) return c;
+c++;
+p=raiz->lista;
+while(p!=NULL){
+c = c + conta_nodos(p->filho);
+p=p->prox;
+}
+return c;
+}
 void libera_arvore(struct arvoregenerica *raiz){
 	struct nodo *p, *f;
 	if (raiz==NULL) return;
@@ -135,11 +133,15 @@ int main() {
     p=p->prox;
     adicionasubarvore(p->filho, crianodo(9));
     adicionasubarvore(p->filho, crianodo(10));
-    
-	conta_nodos(raiz);
 
+	printf("mostra arvore\n");
     mostra_arvore(raiz);
+	
+	printf("\nConta nodos");
+	    printf("\n%d", conta_nodos(raiz));
+	printf("\n");
     libera_arvore(raiz);
+
    
    	return 0;
 }
