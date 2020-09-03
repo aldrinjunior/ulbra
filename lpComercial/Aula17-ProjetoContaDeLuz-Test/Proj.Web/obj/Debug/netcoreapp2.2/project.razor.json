@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/aldrinjr/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Proj.Web.csproj",
+  "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Proj.Web.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,73 +2961,73 @@
   "RootNamespace": "Proj.Web",
   "Documents": [
     {
-      "FilePath": "Views/Restaurante/Create.cshtml",
-      "TargetPath": "Views/Restaurante/Create.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Restaurante/Index.cshtml",
+      "TargetPath": "Views\\Restaurante\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Contas Restaurante/View.cshtml",
-      "TargetPath": "Views/Contas Restaurante/View.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Shared/_ValidationScriptsPartial.cshtml",
-      "TargetPath": "Views/Shared/_ValidationScriptsPartial.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Consumo/View.cshtml",
+      "TargetPath": "Views\\Consumo\\View.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Contas Restaurante/Update.cshtml",
-      "TargetPath": "Views/Contas Restaurante/Update.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Restaurante/Create.cshtml",
+      "TargetPath": "Views\\Restaurante\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Shared/_CookieConsentPartial.cshtml",
-      "TargetPath": "Views/Shared/_CookieConsentPartial.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Home/Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Restaurante/View.cshtml",
-      "TargetPath": "Views/Restaurante/View.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Consumo/Index.cshtml",
+      "TargetPath": "Views\\Consumo\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/_ViewImports.cshtml",
-      "TargetPath": "Views/_ViewImports.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Home/Index.cshtml",
-      "TargetPath": "Views/Home/Index.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Restaurante/Index.cshtml",
-      "TargetPath": "Views/Restaurante/Index.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Consumo/Create.cshtml",
+      "TargetPath": "Views\\Consumo\\Create.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/_ViewStart.cshtml",
-      "TargetPath": "Views/_ViewStart.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Restaurante/View.cshtml",
+      "TargetPath": "Views\\Restaurante\\View.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Contas Restaurante/Create.cshtml",
-      "TargetPath": "Views/Contas Restaurante/Create.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Restaurante/Update.cshtml",
-      "TargetPath": "Views/Restaurante/Update.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Contas Restaurante/Index.cshtml",
-      "TargetPath": "Views/Contas Restaurante/Index.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Restaurante/Update.cshtml",
+      "TargetPath": "Views\\Restaurante\\Update.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "Views/Shared/_Layout.cshtml",
-      "TargetPath": "Views/Shared/_Layout.cshtml",
+      "FilePath": "/Users/aldrinjr/www/ulbra/lpComercial/Aula17-ProjetoContaDeLuz-Test/Proj.Web/Views/Consumo/Update.cshtml",
+      "TargetPath": "Views\\Consumo\\Update.cshtml",
       "FileKind": "mvc"
     }
   ],

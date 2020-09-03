@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Poltrona
+comment1.params=numero\ passageiro
+comment1.target=Poltrona(int,\ Passageiro)
+numComments=2

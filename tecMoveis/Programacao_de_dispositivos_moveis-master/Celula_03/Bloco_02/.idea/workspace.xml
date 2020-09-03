@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab4b1979-2f7f-46e3-a7d4-4fcb281bd712" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../estruturaDados/trabalho02/bsp_remove" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../estruturaDados/trabalho02/bsp_remove" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../calculadoraIMC_AP1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/androidTest/java/com/example/coronga_virus/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/java/com/example/coronga_virus/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/backgroundcoronga.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/card.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/curadosimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/infectadosimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable-v24/mortosimg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/app/src/test/java/com/example/coronga_virus/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../coronga_virus/settings.gradle" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1dhF4dnL26SZkekGbtqs4zE6d2k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab4b1979-2f7f-46e3-a7d4-4fcb281bd712" name="Default Changelist" comment="" />
+      <created>1592869227069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592869227069</updated>
+    </task>
+    <servers />
+  </component>
+</project>

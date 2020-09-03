@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Passageiro
+comment1.params=nome\ cpf
+comment1.target=Passageiro(java.lang.String,\ java.lang.String)
+numComments=2
