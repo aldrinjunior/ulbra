@@ -1,1 +1,1 @@
-![alt text](https://ibb.co/CQy92hp)
+![Screenshot](screenshot.png)
